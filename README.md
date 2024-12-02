@@ -20,3 +20,5 @@ The file CCS_RA_AoR_data_analysis.ipynb is used to build the parametric tool, no
 
 The file CCS_project_tracker_Github.xlsx is the Excel tracker file used to plot real-world CCS projects on the phase diagram.
 
+The link to the paper will be added soon.
+
