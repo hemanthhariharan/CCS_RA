@@ -12,7 +12,7 @@ Parametric analysis of the Area of Review (AoR) using CCSNet, a deep-learning-ba
 
 ## Documentation
 
-The file CCS_RA_AoR_trials.ipynb uses CCSNet’s backend application programming interface (API) for the 2D isotropic model to run ~500k trials in various batches for both homogeneous and synthetic heterogeneous reservoirs.
+The file CCS_RA_AoR_trials.ipynb uses CCSNet’s API for the 2D isotropic model to run ~500k trials in various batches for both homogeneous and synthetic heterogeneous reservoirs.
 
 The files Output_1.csv, Output_2.csv, ... Output_18.csv correspond to homogeneous reservoirs while Output_19.csv and Output_20.csv correspond to heterogeneous reservoirs.
 
